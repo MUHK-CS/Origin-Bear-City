@@ -1,4 +1,4 @@
-# Origin-Bear-City
+# Origin-Bear City
 - A game project using UE4 created by Team Teddy Bear 
 - This is a zombie game (fps)
 
@@ -24,3 +24,5 @@ Interact with item: E
 Crouch: C
 Take out weapon: T
 
+Demo Video:
+https://youtu.be/LmhaWTl2arA
